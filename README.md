@@ -80,7 +80,12 @@ Root privileges are required for packet capture.
 
 ```bat
 git clone https://github.com/NathPrashant/network-traffic-visualizer.git
-cd network-traffic-visualizer
+```
+
+change directory to network-traffic-visualizer via terminal. Eg:
+
+```bat
+cd C:\Users\xyz\network-traffic-visualizer
 ```
 
 ```bat
